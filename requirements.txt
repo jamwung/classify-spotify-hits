@@ -1,0 +1,26 @@
+# Core Libraries
+numpy==1.21.2
+pandas==1.3.3
+matplotlib==3.4.3
+seaborn==0.11.2
+
+# File Operations
+joblib==1.1.0
+
+# Machine Learning
+scikit-learn==0.24.2
+imbalanced-learn==0.8.0
+
+# Interpretability Techniques
+shap==0.40.0
+dice-ml==0.6.2
+
+# Web Scraping
+spotipy==2.18.0
+
+# Other Supporting Libraries
+Pillow==8.2.0
+tqdm==4.62.3
+
+# Jupyter Notebook Magic
+ipython==7.27.0
