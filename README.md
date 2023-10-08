@@ -1,4 +1,4 @@
-# Explainable AI Project
+# Leveraging Explainable AI on Spotify Tracks
 ![Header](Images/Title.png)
 
 Welcome to the `classify-spotify-hits` repository!
